@@ -2,7 +2,7 @@
 int servo1 = 4;
 int servo2 = 5;
 Servo rightone;
-Servo lefttone;
+Servo leftone;
 
 
 // the setup routine runs once when you press reset:
